@@ -6,5 +6,5 @@ NOTE: This is just for testing purposes!
 # How to run it
 Run the Slack Notification Update.app (need to extract its .zip first)
 
-# Video link
+# Demo video link
 https://youtu.be/G7Ol-H8OnEU
